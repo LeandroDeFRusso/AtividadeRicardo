@@ -5,9 +5,9 @@ Tela 1 - Na primeira tela o usuário irá inserir a localização, a data que pr
 
 Tela 2 - Na segunda tela o usuário poderá acessar o histórico de carros já alugados, além de contar com a função de alugar o mesmo carro novamente.
 
-Tela 3 - Na terceira tela o usuário 
+Tela 3 - Na terceira tela o usuário verá os carros disponiveis com suas respectivas informações de uma forma mais breve. Quando o usuário escolher uma opção, ele pode apertar o botão simbolizado com três pontos para abrir outra tela de mais informações.
 
-Tela 4 - Na quarta tela o usuário 
+Tela 4 - Na quarta tela o usuário verá as informações especificas do carro escolhido, além disso, a tela contará com a função de alugar o carro.
 
 Tela 5 - Na quinta tela o usuário deverá efetuar o pagamento, através do cartão de crédito ou débito, para que o carro seja liberado.
 
